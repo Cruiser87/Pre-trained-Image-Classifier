@@ -1,0 +1,7 @@
+Command Line Arguments:
+     dir = uploaded_images/ 
+    arch = resnet 
+ dogfile = dognames.txt
+
+Prints 10 filenames from folder pet_images/
+ 1 file:                Dog_01.jpg
